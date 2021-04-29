@@ -1,2 +1,1 @@
-# doodle-engine
-The Doodle engine!
+# The Doodle Engine
